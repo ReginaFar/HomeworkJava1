@@ -8,7 +8,6 @@ public class task1 {
         Scanner iScanner = new Scanner(System.in);
         System.out.printf("Введите число n: ");
         int n = iScanner.nextInt();
-        System.out.println(n);
         int sum = n;
         int mult = n;
         while (n > 1) {
